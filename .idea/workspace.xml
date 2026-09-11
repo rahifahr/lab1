@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6426f0f-ef6e-4550-9c70-41f55033ee4c" name="Changes" comment="Halloween disc 1 website">
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pumpkin.html" beforeDir="false" afterPath="$PROJECT_DIR$/pumpkin.html" afterDir="false" />
     </list>
@@ -23,23 +24,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0061871425166922" />
-      <entry key="MS500" value="1.4743750660341344" />
-      <entry key="S2" value="3.237468080942614" />
-      <entry key="S5" value="6.309709048467208" />
-      <entry key="S10" value="9.355327131726579" />
-      <entry key="S30" value="13.14297034753432" />
-      <entry key="S60" value="14.505887607534829" />
-      <entry key="M2" value="15.867341684374447" />
-      <entry key="M5" value="19.586932475955333" />
-      <entry key="M10" value="23.47581379797487" />
-      <entry key="M15" value="25.673437006667687" />
-      <entry key="M30" value="28.699924955979288" />
-      <entry key="H1" value="30.653521704722195" />
-      <entry key="H2" value="31.77190648991864" />
-      <entry key="H4" value="32.37143928212518" />
-      <entry key="D1" value="32.89315187956111" />
-      <entry key="W1" value="32.98468387691035" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.000000000008811" />
+      <entry key="S10" value="1.0000110552264438" />
+      <entry key="S30" value="1.1389514499136273" />
+      <entry key="S60" value="2.4915200149180645" />
+      <entry key="M2" value="6.0879936725927974" />
+      <entry key="M5" value="13.427488834485265" />
+      <entry key="M10" value="19.699462957595596" />
+      <entry key="M15" value="23.060888441957875" />
+      <entry key="M30" value="27.604203044510204" />
+      <entry key="H1" value="30.513119954005727" />
+      <entry key="H2" value="32.17530053368053" />
+      <entry key="H4" value="33.066067008532386" />
+      <entry key="D1" value="33.84123179591985" />
+      <entry key="W1" value="33.977241045917566" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -61,23 +62,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.16080999450028427" />
-      <entry key="MS500" value="1.0673206350938371" />
-      <entry key="S2" value="3.0386282959844215" />
-      <entry key="S5" value="6.161819392687051" />
-      <entry key="S10" value="9.239437304797466" />
-      <entry key="S30" value="13.083959721562461" />
-      <entry key="S60" value="14.472511166346663" />
-      <entry key="M2" value="15.849481077789774" />
-      <entry key="M5" value="19.579321223707" />
-      <entry key="M10" value="23.471825280660713" />
-      <entry key="M15" value="25.6707091227427" />
-      <entry key="M30" value="28.69851263436552" />
-      <entry key="H1" value="30.65279962778536" />
-      <entry key="H2" value="31.7715408467097" />
-      <entry key="H4" value="32.37125521944521" />
-      <entry key="D1" value="32.89312102183178" />
-      <entry key="W1" value="32.98467946412813" />
+      <entry key="MS100" value="0.7022224378689985" />
+      <entry key="MS500" value="0.9317404293047731" />
+      <entry key="S2" value="0.9824800378998837" />
+      <entry key="S5" value="0.9929548331352356" />
+      <entry key="S10" value="0.9964821085934016" />
+      <entry key="S30" value="1.1371499155376668" />
+      <entry key="S60" value="2.487499190941714" />
+      <entry key="M2" value="6.081971977963626" />
+      <entry key="M5" value="13.422541829992992" />
+      <entry key="M10" value="19.696227021743354" />
+      <entry key="M15" value="23.058505125180872" />
+      <entry key="M30" value="27.60287421427078" />
+      <entry key="H1" value="30.512414920931654" />
+      <entry key="H2" value="32.17493684665984" />
+      <entry key="H4" value="33.06588222729342" />
+      <entry key="D1" value="33.84120057774851" />
+      <entry key="W1" value="33.977236575681154" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -129,7 +130,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1789143672767</updated>
-      <workItem from="1789143672771" duration="2360000" />
+      <workItem from="1789143672771" duration="2861000" />
     </task>
     <task id="LOCAL-00001" summary="Halloween disc 1 website">
       <option name="closed" value="true" />
@@ -139,7 +140,23 @@
       <option name="project" value="LOCAL" />
       <updated>1789145439365</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Halloween disc 1 website">
+      <option name="closed" value="true" />
+      <created>1789146096955</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1789146096955</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Halloween disc 1 website">
+      <option name="closed" value="true" />
+      <created>1789146267765</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1789146267765</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
