@@ -2,15 +2,9 @@
     box-sizing: border-box;
 }
 
-html,
 body {
     margin: 0;
-    padding: 0;
-}
-
-body {
     font-family: Arial, Helvetica, sans-serif;
-    min-width: 0;
 }
 
 .page-container {
@@ -19,33 +13,34 @@ body {
 }
 
 header {
+    background-color: #2b163d;
+    color: #f5e6c8;
     text-align: center;
-    padding: 2rem 1rem;
+    padding: 25px;
 }
 
 header h1 {
-    margin: 0 0 0.5rem 0;
-    font-size: 2.5rem;
+    color: #ff7518;
+    margin: 0 0 10px 0;
 }
 
 header p {
     margin: 0;
-    font-size: 1.1rem;
 }
 
+
 nav {
-    padding: 0.8rem;
+    background-color: #ff7518;
+    padding: 10px;
 }
 
 nav ul {
     list-style-type: none;
-    margin: 0;
     padding: 0;
+    margin: 0;
 
     display: flex;
     justify-content: center;
-    align-items: center;
-
     flex-wrap: nowrap;
 
 }
@@ -56,168 +51,87 @@ nav li {
 
 nav a {
     display: block;
-    padding: 0.7rem 1.2rem;
+    padding: 10px 20px;
 
+    color: #1b1025;
     text-decoration: none;
     white-space: nowrap;
 
-    font-weight: bold;
-
 }
 
-/* =========================
-HOME PAGE
-========================= */
+nav a:hover {
+    background-color: #d95f00;
+    color: white;
+}
 
 .home-page {
     background-color: #1b1025;
     color: #f5e6c8;
 }
 
-.home-page header {
-    background-color: #2b163d;
-}
-
-.home-page header h1 {
-    color: #ff7518;
-}
-
-.home-page header p {
-    color: #e6c9ff;
-}
-
-.home-page nav {
-    background-color: #ff7518;
-}
-
-.home-page nav a {
-    color: #1b1025;
-}
-
-.home-page nav a:hover {
-    background-color: #d95f00;
-    color: white;
-}
-
 .home-page main {
     min-height: 100vh;
     background-color: #24152f;
-    padding: 3rem 2rem;
+    padding: 40px 20px;
 }
 
 .home-content {
-    max-width: 900px;
+    max-width: 800px;
     margin: 0 auto;
     text-align: center;
 }
 
 .home-content h2 {
     color: #ff7518;
-    font-size: 2rem;
-    margin-top: 0;
 }
 
 .home-content p {
-    font-size: 1.1rem;
-    line-height: 1.7;
+    line-height: 1.6;
     text-align: left;
-    max-width: 750px;
-    margin: 1.5rem auto;
-}
-
-.home-content img,
-.pumpkin-content img {
-    display: block;
-
-    max-width: 100%;
-    width: 600px;
-    height: auto;
-
-    margin: 2rem auto;
-
 }
 
 .pumpkin-page {
-    background-color: #090909;
-    color: #f3f3f3;
-
-    font-family: "Courier New", Courier, monospace;
-
-}
-
-.pumpkin-page header {
-    background-color: #160d05;
-}
-
-.pumpkin-page header h1 {
-    color: #ff7518;
-}
-
-.pumpkin-page header p {
-    color: #c9c9c9;
-}
-
-.pumpkin-page nav {
-    background-color: #351a08;
-}
-
-.pumpkin-page nav a {
-    color: #ff9d3d;
-}
-
-.pumpkin-page nav a:hover {
-    background-color: #ff7518;
-    color: #090909;
+    background-color: #1b1025;
+    color: #f5e6c8;
 }
 
 .pumpkin-page main {
     min-height: 100vh;
-    background-color: #120c07;
-    padding: 3rem 2rem;
+    background-color: #321b3f;
+    padding: 40px 20px;
 }
 
 .pumpkin-content {
-    max-width: 900px;
+    max-width: 800px;
     margin: 0 auto;
     text-align: center;
 }
 
 .pumpkin-content h2 {
-    color: #ff7518;
-    font-size: 2.3rem;
-    margin-top: 0;
+    color: #ff9d3d;
+    font-family: "Courier New", Courier, monospace;
 }
 
 .pumpkin-content h3 {
-    color: #ffa64d;
-    font-size: 1.6rem;
+    color: #ff7518;
 }
 
 .pumpkin-content p {
-    font-size: 1.1rem;
-    line-height: 1.8;
+    line-height: 1.6;
     text-align: left;
-    max-width: 750px;
-    margin: 1.5rem auto;
 }
 
+.home-content img,
 .pumpkin-content img {
-    border: 5px solid #ff7518;
+    max-width: 100%;
+    height: auto;
 }
 
 footer {
-    text-align: center;
-    padding: 2rem 1rem;
-}
-
-.home-page footer {
     background-color: #2b163d;
     color: #e6c9ff;
-}
-
-.pumpkin-page footer {
-    background-color: #160d05;
-    color: #c9c9c9;
+    text-align: center;
+    padding: 20px;
 }
 
 @media screen and (max-width: 700px) {
@@ -227,42 +141,21 @@ footer {
 }
 
     header {
-        padding: 1.5rem 0.5rem;
-    }
-
-    header h1 {
-        font-size: 2rem;
-    }
-
-    header p {
-        font-size: 0.9rem;
-    }
-
-    nav {
-        padding: 0.4rem;
-    }
-
-    nav ul {
-        flex-wrap: nowrap;
+        padding: 20px 10px;
     }
 
     nav a {
-        padding: 0.6rem 0.5rem;
-        font-size: 0.8rem;
+        padding: 8px 10px;
+        font-size: 14px;
     }
 
     main {
-        padding: 2rem 1rem;
-    }
-
-    .home-content h2,
-    .pumpkin-content h2 {
-        font-size: 1.7rem;
+        padding: 25px 10px;
     }
 
     .home-content p,
     .pumpkin-content p {
-        font-size: 1rem;
+        font-size: 16px;
     }
 
 }
