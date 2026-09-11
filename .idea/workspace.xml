@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6426f0f-ef6e-4550-9c70-41f55033ee4c" name="Changes" comment="Halloween disc 1 website">
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pumpkin.html" beforeDir="false" afterPath="$PROJECT_DIR$/pumpkin.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0061871425166922" />
+      <entry key="MS500" value="1.4743750660341344" />
+      <entry key="S2" value="3.237468080942614" />
+      <entry key="S5" value="6.309709048467208" />
+      <entry key="S10" value="9.355327131726579" />
+      <entry key="S30" value="13.14297034753432" />
+      <entry key="S60" value="14.505887607534829" />
+      <entry key="M2" value="15.867341684374447" />
+      <entry key="M5" value="19.586932475955333" />
+      <entry key="M10" value="23.47581379797487" />
+      <entry key="M15" value="25.673437006667687" />
+      <entry key="M30" value="28.699924955979288" />
+      <entry key="H1" value="30.653521704722195" />
+      <entry key="H2" value="31.77190648991864" />
+      <entry key="H4" value="32.37143928212518" />
+      <entry key="D1" value="32.89315187956111" />
+      <entry key="W1" value="32.98468387691035" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.16080999450028427" />
+      <entry key="MS500" value="1.0673206350938371" />
+      <entry key="S2" value="3.0386282959844215" />
+      <entry key="S5" value="6.161819392687051" />
+      <entry key="S10" value="9.239437304797466" />
+      <entry key="S30" value="13.083959721562461" />
+      <entry key="S60" value="14.472511166346663" />
+      <entry key="M2" value="15.849481077789774" />
+      <entry key="M5" value="19.579321223707" />
+      <entry key="M10" value="23.471825280660713" />
+      <entry key="M15" value="25.6707091227427" />
+      <entry key="M30" value="28.69851263436552" />
+      <entry key="H1" value="30.65279962778536" />
+      <entry key="H2" value="31.7715408467097" />
+      <entry key="H4" value="32.37125521944521" />
+      <entry key="D1" value="32.89312102183178" />
+      <entry key="W1" value="32.98467946412813" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3JBo95vNZoNaHKWnlkeoKCaMvHp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/rrahi/AppData/Roaming/JetBrains/WebStorm2026.2/node/versions/24.21.0/node",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.10315.144" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6426f0f-ef6e-4550-9c70-41f55033ee4c" name="Changes" comment="" />
+      <created>1789143672767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789143672767</updated>
+      <workItem from="1789143672771" duration="2360000" />
+    </task>
+    <task id="LOCAL-00001" summary="Halloween disc 1 website">
+      <option name="closed" value="true" />
+      <created>1789145439365</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1789145439365</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Halloween disc 1 website" />
+    <option name="LAST_COMMIT_MESSAGE" value="Halloween disc 1 website" />
+  </component>
+</project>
