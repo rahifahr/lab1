@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6426f0f-ef6e-4550-9c70-41f55033ee4c" name="Changes" comment="Halloween disc 1 website">
+    <list default="true" id="e6426f0f-ef6e-4550-9c70-41f55033ee4c" name="Changes" comment="Fixed typo">
+      <change afterPath="$PROJECT_DIR$/scary.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pumpkin.html" beforeDir="false" afterPath="$PROJECT_DIR$/pumpkin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mp-1" beforeDir="false" afterPath="$PROJECT_DIR$/../mp-1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,20 +31,20 @@
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
       <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.000000000008811" />
-      <entry key="S10" value="1.0000110552264438" />
-      <entry key="S30" value="1.1389514499136273" />
-      <entry key="S60" value="2.4915200149180645" />
-      <entry key="M2" value="6.0879936725927974" />
-      <entry key="M5" value="13.427488834485265" />
-      <entry key="M10" value="19.699462957595596" />
-      <entry key="M15" value="23.060888441957875" />
-      <entry key="M30" value="27.604203044510204" />
-      <entry key="H1" value="30.513119954005727" />
-      <entry key="H2" value="32.17530053368053" />
-      <entry key="H4" value="33.066067008532386" />
-      <entry key="D1" value="33.84123179591985" />
-      <entry key="W1" value="33.977241045917566" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000005966618" />
+      <entry key="S30" value="1.0014943436420096" />
+      <entry key="S60" value="1.0974012509694913" />
+      <entry key="M2" value="2.0304270403417064" />
+      <entry key="M5" value="6.887905427502569" />
+      <entry key="M10" value="14.873537908910482" />
+      <entry key="M15" value="20.88718613033791" />
+      <entry key="M30" value="30.993058115580737" />
+      <entry key="H1" value="38.64303945468348" />
+      <entry key="H2" value="43.42039517359508" />
+      <entry key="H4" value="46.10064014264412" />
+      <entry key="D1" value="48.500691296516855" />
+      <entry key="W1" value="48.928264475567204" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -62,32 +66,32 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.7022224378689985" />
-      <entry key="MS500" value="0.9317404293047731" />
-      <entry key="S2" value="0.9824800378998837" />
-      <entry key="S5" value="0.9929548331352356" />
-      <entry key="S10" value="0.9964821085934016" />
-      <entry key="S30" value="1.1371499155376668" />
-      <entry key="S60" value="2.487499190941714" />
-      <entry key="M2" value="6.081971977963626" />
-      <entry key="M5" value="13.422541829992992" />
-      <entry key="M10" value="19.696227021743354" />
-      <entry key="M15" value="23.058505125180872" />
-      <entry key="M30" value="27.60287421427078" />
-      <entry key="H1" value="30.512414920931654" />
-      <entry key="H2" value="32.17493684665984" />
-      <entry key="H4" value="33.06588222729342" />
-      <entry key="D1" value="33.84120057774851" />
-      <entry key="W1" value="33.977236575681154" />
+      <entry key="MS100" value="0.5904963307147651" />
+      <entry key="MS500" value="0.9000019297935121" />
+      <entry key="S2" value="0.974004268543241" />
+      <entry key="S5" value="0.9895194703802146" />
+      <entry key="S10" value="0.9947459331736619" />
+      <entry key="S30" value="0.9997347753273663" />
+      <entry key="S60" value="1.0962363796858088" />
+      <entry key="M2" value="2.02840448371536" />
+      <entry key="M5" value="6.884637119629545" />
+      <entry key="M10" value="14.870337066738019" />
+      <entry key="M15" value="20.88437995384355" />
+      <entry key="M30" value="30.991149538553785" />
+      <entry key="H1" value="38.641910025863204" />
+      <entry key="H2" value="43.41977832669639" />
+      <entry key="H4" value="46.10031745368754" />
+      <entry key="D1" value="48.50063541876327" />
+      <entry key="W1" value="48.92825644011946" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3JBo95vNZoNaHKWnlkeoKCaMvHp" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -104,8 +108,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -113,7 +119,8 @@
     "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "C:/Users/rrahi/AppData/Roaming/JetBrains/WebStorm2026.2/node/versions/24.21.0/node",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -130,7 +137,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1789143672767</updated>
-      <workItem from="1789143672771" duration="2861000" />
+      <workItem from="1789143672771" duration="3372000" />
+      <workItem from="1789748668637" duration="3000" />
+      <workItem from="1789748717140" duration="956000" />
     </task>
     <task id="LOCAL-00001" summary="Halloween disc 1 website">
       <option name="closed" value="true" />
@@ -156,7 +165,23 @@
       <option name="project" value="LOCAL" />
       <updated>1789146267765</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fixed css styling">
+      <option name="closed" value="true" />
+      <created>1789146614996</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1789146614996</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fixed typo">
+      <option name="closed" value="true" />
+      <created>1789146730055</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1789146730055</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +189,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Halloween disc 1 website" />
-    <option name="LAST_COMMIT_MESSAGE" value="Halloween disc 1 website" />
+    <MESSAGE value="Fixed css styling" />
+    <MESSAGE value="Fixed typo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed typo" />
   </component>
 </project>
