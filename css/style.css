@@ -15,6 +15,7 @@ body {
 
 header {
     background-color: #2b163d;
+    font-family: Arial, Helvetica, sans-serif;
     color: #f5e6c8;
     text-align: center;
     padding: 25px;
@@ -41,7 +42,10 @@ nav ul {
     padding: 0;
     margin: 0;
     display: flex;
-    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
 }
 
 nav li {
@@ -205,47 +209,7 @@ footer {
     padding: 20px;
 }
 
-@media screen and (min-width: 1001px) {
-
-    .page-container {
-        width: 90vw;
-        max-width: 1200px;
-    }
-
-    nav {
-        width: 180px;
-        float: left;
-        min-height: 100vh;
-    }
-
-    main {
-        margin-left: 180px;
-    }
-
-    footer {
-        margin-left: 180px;
-    }
-}
-
-@media screen and (max-width: 1000px) {
-
-    .page-container {
-        width: 90vw;
-    }
-
-    nav ul {
-        flex-direction: row;
-        justify-content: center;
-        flex-wrap: nowrap;
-    }
-
-    nav a {
-        padding: 10px 15px;
-        font-size: calc(12px + 0.2vw);
-    }
-}
-
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 750px) {
 
     .page-container {
         width: 95vw;
@@ -260,7 +224,7 @@ footer {
     }
 
     nav a {
-        padding: 8px 5px;
+        padding: 8px 10px;
         font-size: 14px;
     }
 
